@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Điên à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao Hưng lại đẹp zai thế nhỡ <3',
     btnReply: 'Gửi cho Hưng <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <3333333',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <333333',
     mess: 'Tui biết mà 🥰',
     messDesc: 'À, nhắn tin cái đi.',
     btnAccept: 'Okiiiii lun <3',
